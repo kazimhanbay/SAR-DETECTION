@@ -1,8 +1,7 @@
-# TIFF-to-JPEG-Converter-and-Cropper
+# General Code Folder for SAR Ship Detection
 
 
-
-This script converts a TIFF image to a 3-band TIFF image and then to a JPEG image, and crops the JPEG image into 800x800 pixel squares.
+This script describes .... .
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/a7581d82-68b8-4574-a58e-c0d9bd49c8b3" style="border-radius: 50px;">
@@ -16,16 +15,17 @@ The script requires the following packages to be installed:
 
 
 
-* `gdal`: This package provides access to a variety of geospatial data formats and allows for reading, writing, and manipulating geospatial data.
+* `PIL (Python Imaging Library)`: This package is used for reading, writing, and manipulating various image formats. It is commonly used for image processing and graphical manipulation tasks. While it can support some geospatial data formats, its primary function is image processing.
 
 * `cv2`: This package is a part of the OpenCV library and provides support for image processing tasks such as reading, writing, and displaying images.
 
-* `os`: This package provides functions for interacting with the operating system, such as creating directories and checking for the existence of files.
+* `numpy`: This package is used for numerical computing and data analysis. It simplifies working with multi-dimensional arrays and matrices, and includes functions for linear algebra, statistical analysis, and other scientific computations.
 
-* `time`: This package provides functions for working with time, such as measuring elapsed time.
+* `matplotlib`: This package is used for creating plots and visualizations. It provides the ability to generate time series plots, line graphs, histograms, and various other visual representations.
+ 
+* `scipy`: This package is designed for scientific and technical computing. It offers extensive tools for optimization, integration, interpolation, eigenvalue problems, linear algebra, and more.
 
 ![Python Version](https://img.shields.io/badge/Python-3.11-blue)
-![GDAL Version](https://img.shields.io/badge/GDAL-3.8.2-brightgreen)
 
 
 ### Image Conversion Options 📸✨
