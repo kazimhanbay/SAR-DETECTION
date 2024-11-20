@@ -1,5 +1,7 @@
 # Geliştirilen Gemi Tespit Yöntemi
 
+NOT: Önerilen gemi tespit yönteminin sadece ana hatları  sunulmuştur. Hessian matrisi, öz değerler ve morfolojik işlemlere ait detaylar verilmemiştir. Yöntemin parametre optimizasyonu ile ilgili çalışmalar devam etmektedir. 
+
 Önerilen yöntem ile Hessian matrisi ve öz değerlerden yararlanarak SAR görüntülerinde gemi tespiti yapmak amaçlanmaktadır. Hessian matrisi, gemi bulunan bölgelerin görüntüdeki anahtar noktalara (key-point) karşılık geldiğini gösteren bir belirteç görevi görür. Ancak eşikleme gibi temel yöntemler, gürültü, resifler ve kara bölgeleri nedeniyle istenen doğruluğu sağlayamamaktadır. Bu zorluklar, Hessian matrisi ve öz değerlerle tensör temelli bir gemi tespiti için yeni bir kara/deniz ayrımı yapan yöntemin geliştirilmesini gerektirmiştir.
 
 Geliştirilen bu yöntem, yalnızca deniz bölgelerinde gemi tespiti yaparak daha gerçekçi sonuçlar sunmaktadır. Özellikle `Datasetv1.0.1` ve `Datasetv2.0.0` üzerinde test edilen bu yöntem, kara bölgesi içermeyen SAR görüntülerinde doğrudan gemi tespiti için etkili sonuçlar vermektedir. Kara/deniz içeren bir SAR görüntüsü aşağıda görülebilir.
