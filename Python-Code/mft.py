@@ -13,7 +13,7 @@ img = img.convert("L")  # Gri tonlamaya dönüştür
 img_array = np.array(img)
 
 # Komşuluk boyutunu (k x k) tanımlayın
-k = 2
+k = 2 #bazı görüntülerde bu değer değişebilir
 
 # Ortalama (MU) ve standart sapma (SS) görüntülerini hesaplayın
 MU = gaussian_filter(img_array, k)
