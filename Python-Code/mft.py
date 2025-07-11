@@ -1,4 +1,4 @@
-# Bu kod Hessian matrisini kullanmadan sadece Gauss fonksiyonu ile kara/deniz ayrımını yapmaktadır.
+# Bu kod Hessian matrisini kullanmadan sadece Gauss fonksiyonu ile kara/deniz ayrımını yapmaktadır. Her iki yöntem benzer sonuçar getirir
 
 # Yeniden gerekli kütüphaneleri içe aktarıyorum
 from PIL import Image
