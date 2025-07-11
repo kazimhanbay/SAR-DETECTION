@@ -100,9 +100,16 @@ boyanır ve deniz bölgesinde gemi pikselleri vurgulanmış olur.
 Şekil 5’te, kara bölgelerini de içeren Datasetv2.0.0 veri tabanındaki bazı SAR görüntülerine ait gemi tespit sonuçları sunulmuştur. Geliştirilen yöntem, yapılan deneysel çalışmalarda yaklaşık %85 başarıyla gemi tespiti sağlamıştır. Ancak, girintili sahil yapılarında bazı gemilerin tespit edilemediği ve geminin ön/arka su izlerinden kaynaklanan beyaz piksellerin fazladan gemi olarak algılandığı durumlar görülmüştür. (Örneğin, Şekil 5’te üçüncü ve beşinci satırlar). Bu eksiklikleri gidermek için hassas morfolojik işlemler ve gürültü temizleme üzerine çalışmalar devam etmekte olup yöntemin doğruluğunu artırmaya yönelik iyileştirmelere devam edilmektedir.
 </p>
 
+
 <p align="center">
   <img src="https://github.com/user-attachments/assets/87dd9f05-a552-4ba4-b530-76e135e0f122" alt="image8">
   <img src="https://github.com/user-attachments/assets/e0f52918-4583-4ce1-8225-0a961b788481" alt="image9">
   <img src="https://github.com/user-attachments/assets/a9bc9290-12ef-4132-bbd8-d94f15214d9c" alt="image10">
   <img src="https://github.com/user-attachments/assets/8aa16f3e-d657-4ffc-a56b-050f73738ba2" alt="image11">
+</p>
+<p align="justify">
+<h4>Yönteme ait makale : K. Hanbay, "SAR Ship Detection Based on Gaussian Probability and Eigenvalue Analysis," in IEEE Signal Processing Letters, vol. 32, pp. 2214-2218, 2025, doi: 10.1109/LSP.2025.3571640.</h4>
+
+</p>
+<p align="center">
 </p>
