@@ -2,8 +2,7 @@
 
 <p align="justify">
 <strong>NOT:</strong> Önerilen gemi tespit yönteminin sadece ana hatları sunulmuştur. Hessian matrisi, öz değerler
-ve morfolojik işlemlere ait detaylar verilmemiştir. Yöntemin parametre optimizasyonu ile ilgili çalışmalar
-devam etmektedir.
+ve morfolojik işlemlere ait detaylar verilmemiştir. Yöntemin parametre optimizasyonu ile ilgili çalışmalar genel olarak tamamlanmıştır. Ancak bazı görüntülerde parametreler ile ilgili değişiklikler gerekmetedir. 
 </p>
 
 <p align="justify">
