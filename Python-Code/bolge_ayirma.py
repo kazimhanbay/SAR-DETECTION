@@ -1,3 +1,4 @@
+#bu kod Gauss fonksiyonu, Hessşan matria ve özdeğerler ile SAR görüntülerindeki kara ve deniz sınırını bulur
 import os
 from PIL import Image
 import numpy as np
