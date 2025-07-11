@@ -1,4 +1,5 @@
 # Bu kod kara/deniz içeren SAR görüntülerinde kara/deniz ayrımını ve sahil çizgisi tespitini sadece Hessian matrisi ve öz değerler ile yapar.
+#Bazı SAR görüntülerinde parametrik ayarlamalar gerekmektedir. 
 
 import tkinter as tk
 from tkinter import filedialog
