@@ -1,5 +1,5 @@
-# Bu kod kara bölgeleri de içeren SAR görüntülerin gemi tespiti yapmaktadır.
-# Bazı görüntülerde parametrik ayarlamalar gerekebilir. Parametre optimizasyonu devam etmektedir.
+r Bu kod kara bölgeleri de içeren SAR görüntülerin gemi tespiti yapmaktadır.
+# Bazı görüntülerde parametrik ayarlamalar gerekmektedir.
 
 import tkinter as tk
 from tkinter import filedialog
